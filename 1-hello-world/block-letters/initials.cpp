@@ -1,18 +1,26 @@
-// Sonny Li
-// Fun Fact: I played guitar in a band called Attica.
+// Rebecca Plaster
+// 
 
 #include <iostream>
 
 int main() {
 
-  std::cout << "  SSS   L     \n";
-  std::cout << " S   S  L     \n";
-  std::cout << " S      L     \n";
-  std::cout << "  SSS   L     \n";
-  std::cout << "     S  L     \n";
-  std::cout << " S   S  L     \n";
-  std::cout << "  SSS   LLLLL \n";
-
+  std::cout << "\n";
+  std::cout << "* * * * * * * * * * * * * * * * * * * * * * * * *\n";
+  std::cout << "* *       J     e e       e e     p p p p     * *\n";
+  std::cout << "* *       J   e     e   e     e   p       p   * *\n";
+  std::cout << "* *       J   e e e     e e e     p       p   * *\n";
+  std::cout << "* *   J   J   e         e         p p p p     * *\n";
+  std::cout << "* *    J J      e e       e e     p           * *\n";
+  std::cout << "* *                               p           * *\n";
+  std::cout << "* * * * * * * * * * * * * * * * * * * * * * * * *\n";
+  std::cout << "* * * * * * *   *   *   *   *   *   * * * * * * *\n";
+  std::cout << "* *         *   *   *   *   *   *   *         * *\n";
+  std::cout << "* *         *   *   *   *   *   *   *         * *\n";
+  std::cout << "* * * * * * *   *   *   *   *   *   * * * * * * *\n";
+  std::cout << "* * * * * * *   *   *   *   *   *   * * * * * * *\n";
+  std::cout << "  * * * * * * * * * * * * * * * * * * * * * * * \n";
+  std::cout << "   * * * * * * * * * * * * * * * * * * * * *  \n";
   return 0;
 
 }
